@@ -1,0 +1,22 @@
+TODO-Liste 
+
+Repository einrichten
+-Ein Verzeichnis im Terminal erstellen und ein Git-Repository initialisieren.
+-Notwendige Dateien erstellen:
+	-im src: spaceshipLocator.js
+	-im spec: spaceshipLocatorSpec.js
+	-SpecRunner.html: die Scripts einfügen
+-Jasmine-Bibliotheken hinzufügen.
+
+Implementierung des Produktionscodes
+Die Funktion findSpaceship erstellen.
+Die Funktion findSpaceship so implementieren, dass sie den ersten Test besteht.
+Die Funktion findSpaceship erweitern, um alle zusätzlichen Testfälle zu bestehen.
+
+Testfälle schreiben
+Testfall hinzufügen: Rückgabe von [2, 7] für das gegebene Beispielmap.
+Testfall hinzufügen: Rückgabe von "Spaceship lost forever.", wenn das Raumschiff nicht gefunden wird.
+
+Git Commits nicht vergessen!
+
+Zip-Datei erstellen
